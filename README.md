@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/programmer-bunny.gif" alt="programmer-bunny" />
+  <img src="img/programmer-bunny.gif" alt="programmer-bunny" style="display: block; margin: 0 auto; width: auto; height: auto;" loading="eager" />
 </p>
 
 <h3 align="center">Hello there, I'm Nafa! 🩵</h3>
