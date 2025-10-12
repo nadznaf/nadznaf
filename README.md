@@ -99,3 +99,11 @@ A 5th-semester Software Engineering student at UGM passionate about front-end de
 ---
 
 <p align="center">💫 “Keep coding, keep growing, and never stop learning.” 💫</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nadznaf/nadznaf/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nadznaf/nadznaf/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nadznaf/nadznaf/output/pacman-contribution-graph.svg">
+</picture>
+
+###
