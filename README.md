@@ -6,23 +6,61 @@
 
 
 <p align="center">
-🎓 Software Engineering Student | 💻 Front-End Development Enthusiast | 🎨 UI/UX Passionate
+🎓 Software Engineering Technology Student @ UGM | 💻 Front-End & Full-Stack Developer | 🎨 UI/UX Designer
 </p>
 
 <p align="center">
-A 5th-semester Software Engineering student at UGM passionate about front-end development and creative design. I specialize in building aesthetic and user-friendly web experiences with
-</br> <strong>React.js, Next.js, and Laravel</strong>
-</br> Beyond just coding, I thrive in team environments and have a knack for project coordination. I enjoy organizing workflows and leading collaborative efforts to ensure projects are delivered successfully and on time. I believe great products are built by blending strong technical skills with effective teamwork.
+A final-year Software Engineering Technology undergraduate at Universitas Gadjah Mada (GPA 3.78/4.00) with strong proficiency in front-end development and full-stack experience, coupled with a proven talent for UI/UX design.
+</br> <strong>React, Next.js, TypeScript, Laravel, and Golang</strong>
+</br> I've built web applications and e-commerce platforms, mentored developer teams as an assistant lecturer, and led organizations. I believe great products are built by blending strong technical skills with effective teamwork.
 </p>
 
 ---
 
 #### 👩‍💻 What I currently do:
-- 🔭 Working on front-end projects using **React.js** and **Next.js** to build scalable web applications
-- 🌱 Currently learning **Laravel** for full-stack development and exploring advanced **UI/UX design** principles  
-- ❓ Ask me about **Front-End Development**, **UI/UX Design**, or anything tech-related—I'm always excited to share insights!
-- 🛠️ Passionate about creating pixel-perfect, responsive designs that provide exceptional user experiences
-- 🚀 Open to collaborating on innovative projects that push the boundaries of modern web development
+- 💼 Full Stack Developer Intern at **PT. Tempopress International Delivery** (Feb 2026 - Jun 2026), building a Purchasing Management System with **React** and **Golang**
+- 🔭 Building scalable web applications with **React**, **Next.js**, and **TypeScript**
+- 🎨 Designing intuitive interfaces in **Figma** and translating them into pixel-perfect, responsive UIs
+- 🧑‍🏫 Mentoring student developer teams as an Assistant Lecturer at UGM
+- ❓ Ask me about **Front-End Development**, **UI/UX Design**, or anything tech-related!
+- 🚀 Eager to take on challenging front-end or full-stack engineering roles
+
+---
+
+#### 💼 Experience
+
+- **Full Stack Developer Intern** — PT. Tempopress International Delivery *(Feb 2026 - Jun 2026)*
+  - Engineered a Purchasing Management System (React + Golang) for procurement workflows between the internal purchasing department and external vendors
+  - Enhanced the internal HRIS and synced its backend with a new public-facing Career Portal
+  - Led UI/UX design in Figma across all three enterprise applications, with 100% completion rate
+- **Assistant Lecturer, Proyek Aplikasi Dasar** — UGM *(Jul 2025 - Dec 2025)*
+  - Mentored 3 student developer teams through the full SDLC (90% project completion rate) and conducted code reviews
+- **Assistant Lecturer, Praktikum Pemrograman Web** — UGM *(Jan 2025 - Jul 2025)*
+  - Mentored 24+ students in HTML, CSS, JavaScript, Bootstrap, and Figma; graded 100+ practicum reports; introduced gamified quizzes
+
+---
+
+#### 🚀 Projects
+
+- 🛍️ **Akuna** — Skincare e-commerce platform *(Aug 2025 - Dec 2025)*: component-based storefront with React and TypeScript, featuring search/filtering, product detail, cart, and multi-step checkout with REST API integration
+- 🏛️ **LSP UGM Website Portal** *(Jan 2025 - Jul 2025)*: refactored a legacy monolithic front-end into responsive components and integrated REST APIs for certification schedules, candidate data, and assessment results
+- 🎓 **ASSETS Information System** *(Aug 2024 - Jan 2025)*: Laravel Blade front-end for member management, event broadcasting, and article publication
+
+---
+
+#### 🤝 Organizations
+
+- **KOMATIK UGM** — Second Vice President *(Nov 2024 - Nov 2025)*: directed 3 divisions with 25+ staff in a 150+ member IT community
+- **KMTEDI UGM** — Vice Leader of Public Relation Division *(Oct 2023 - Dec 2025)*: led 8+ work programs
+- **ASSETS UGM** — Staff of Human Resource Development *(Mar 2024 - Jan 2026)*: organized orientation for 100+ new students, apparel for 145+ members, and served as Master of Ceremonies
+
+---
+
+#### 🎓 Education & Certifications
+
+- **Universitas Gadjah Mada** — B.Sc. Applied in Software Engineering Technology *(2023 - 2027)*, GPA 3.78/4.00
+- Huawei ICT Academy — HCIA-AI V3.5 (2025)
+- Oracle Academy — Database Programming with SQL (2024)
 
 ---
 
@@ -35,6 +73,9 @@ A 5th-semester Software Engineering student at UGM passionate about front-end de
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
 <p align="center">
@@ -42,6 +83,7 @@ A 5th-semester Software Engineering student at UGM passionate about front-end de
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 <p align="center">
@@ -54,6 +96,8 @@ A 5th-semester Software Engineering student at UGM passionate about front-end de
 <p align="center">
   <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 
