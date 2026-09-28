@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-A 5th-semester Software Engineering student at UGM passionate about front-end development and creative design. I specialize in building aesthetic and user-friendly web experiences with
+A final-year Software Engineering student at UGM passionate about front-end development and creative design. I specialize in building aesthetic and user-friendly web experiences with
 </br> <strong>React.js, Next.js, and Laravel</strong>
 </br> Beyond just coding, I thrive in team environments and have a knack for project coordination. I enjoy organizing workflows and leading collaborative efforts to ensure projects are delivered successfully and on time. I believe great products are built by blending strong technical skills with effective teamwork.
 </p>
